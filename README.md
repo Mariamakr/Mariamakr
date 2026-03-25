@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maria-makrygianni-21b061180)
-[![Instagram](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mariamakrg_?igsh=cHNtZ2Q4MWttYXdn&utm_source=gr)
+[![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/mariamakrg_?igsh=cHNtZ2Q4MWttYXdn&utm_source=gr)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamakr)
 
 Languages:
