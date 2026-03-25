@@ -10,7 +10,7 @@ Languages:
 
 Frameworks, Platforms & Libraries:
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-da3ea9) ![jQuery](https://img.shields.io/badge/jQuery-ff74db) ![NPM](https://img.shields.io/badge/NPM-3eda6f) ![Next](https://img.shields.io/badge/NEXT-7bff9f) ![NodeJS](https://img.shields.io/badge/NodeJS-00a741) ![React](https://img.shields.io/badge/React-8A2BE2) ![Spring](https://img.shields.io/badge/Spring-b9ff63) ![MUI](https://img.shields.io/badge/MUI-c05fff) ![Axios](https://img.shields.io/badge/Axios-83e22b)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-da3ea9) ![jQuery](https://img.shields.io/badge/jQuery-ff74db) ![NPM](https://img.shields.io/badge/NPM-3eda6f) ![Next](https://img.shields.io/badge/NEXT-7bff9f) ![NodeJS](https://img.shields.io/badge/NodeJS-00a741) ![React](https://img.shields.io/badge/React-8A2BE2) ![Spring](https://img.shields.io/badge/Spring-b9ff63) ![MUI](https://img.shields.io/badge/MUI-c05fff) ![Axios](https://img.shields.io/badge/Axios-83e22b) ![Redux](https://img.shields.io/badge/Redux-7affff)
 
 Databases:
 
